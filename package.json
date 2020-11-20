@@ -1,7 +1,7 @@
 {
-  "name": "onlinenaijadoctor",
+  "name": "kays kitchen",
   "version": "1.0.0",
-  "description": "Responsive Doctor website",
+  "description": "Responsive kitchen and pastry site",
   "main": "index.js",
   "homepage": "https://thommms.github.io/kayskitchen",
   "scripts": {
@@ -10,7 +10,6 @@
   "author": "Thomas Okonkwo",
   "license": "ISC",
   "dependencies": {
-    "gh-pages": "^3.1.0",
-    "node-sass": "^4.14.1"
+    "gh-pages": "^3.1.0"
   }
 }
